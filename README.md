@@ -19,10 +19,10 @@
 ---
 
 ## 📈 Coding Profiles
-- 🔗 [LeetCode](https://leetcode.com/SreenathReddyK)  
+- 🔗 [LeetCode](https://leetcode.com/sreenath_karra)  
 - 🔗 [Codeforces](https://codeforces.com/profile/SreenathReddyK)  
-- 🔗 [CodeChef](https://www.codechef.com/users/sreenathreddyk)  
-- 🔗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sreenathreh3sm/practice/)  
+- 🔗 [CodeChef](https://www.codechef.com/users/sreenath6126)  
+- 🔗 [Atcoder](https://atcoder.jp/users/SreenathReddyK) 
 
 ---
 
